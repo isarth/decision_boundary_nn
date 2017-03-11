@@ -1,5 +1,5 @@
 # Visualising Decision Boundary for Different Algorithms 
-Decitsion Tree
+Decision Tree
 <p >
   <img src="Dt.tiff" width="350"/>
 </p>
